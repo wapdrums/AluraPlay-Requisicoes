@@ -1,3 +1,5 @@
+Para acessar a pagina do projeto: <a href="https://wapdrums.github.io/AluraPlay-Requisicoes/"> Clique aqui</a>
+
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
 <hr>
